@@ -97,6 +97,6 @@ finaldata
 names(finaldata)
 
 ## Write tidy dataframe to disk
-write.csv(finaldata, file = "tidy.csv", row.names=FALSE)
-data <- read.csv("tidy.csv")
+write.csv(finaldata, file = "./data/tidy.txt", row.names=FALSE)
+data <- read.csv("./data/tidy.txt")
 View(data)
