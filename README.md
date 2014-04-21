@@ -20,7 +20,7 @@ The dataset includes the following files:
 
 - 'tidydataset.csv': Contains the clean data.
 
-- 'Project.R': An R script that cleans up the datasets in data.zip
+- 'run_analysis.R': An R script that cleans up the datasets in data.zip
 
 - 'data.zip': Data from the original data downloaded by the script
 
